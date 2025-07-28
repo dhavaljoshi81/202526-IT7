@@ -1,0 +1,57 @@
+﻿@model IT7BStudentAPIConsumerCS.Models.SearchStudents
+
+@{
+    ViewData["Title"] = "AdvanceSearch";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>AdvanceSearch</h1>
+
+<h4>SearchStudents</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AdvanceSearch">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="name" class="control-label"></label>
+                <input asp-for="name" class="form-control" />
+                <span asp-validation-for="name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="nameOption" class="control-label"></label>
+                @* <select asp-for="nameOption" asp-items="Html.GetEnumSelectList<NameOption>()" class="form-control">
+                    <option value="">-- Select --</option>
+                </select> *@
+                <select id="nameOption" name="nameOption" class="form-control">
+                    <option value="">-- Select --</option>
+                @foreach (var option in Html.GetEnumSelectList<NameOption>())
+                {
+                    <option value="@option.Text">@option.Text</option>
+                }
+                    
+                </select>
+                @* <input asp-for="nameOption" class="form-control" /> *@
+                <span asp-validation-for="nameOption" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="minAge" class="control-label"></label>
+                <input asp-for="minAge" class="form-control" />
+                <span asp-validation-for="minAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="maxAge" class="control-label"></label>
+                <input asp-for="maxAge" class="form-control" />
+                <span asp-validation-for="maxAge" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "SearchByAge";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Search By Age</h1>
+
+<h4>Student</h4>
+<hr />
+
+<form asp-action="SearchByAge" method="post">
+    
+    <div class="form-group">
+        <label for="age">Age:</label>
+        <input type="number" id="minage" name="minage" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label for="age">Age:</label>
+        <input type="number" id="maxage" name="maxage" class="form-control" required />
+    </div>
+    
+    <div class="form-group">
+        <input type="submit" value="Search" class="btn btn-primary" />
+    </div>
+
+</form>

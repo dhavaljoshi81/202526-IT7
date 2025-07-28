@@ -1,0 +1,6 @@
+@IT7BDemoWebAPICS_HostAddress = http://localhost:5168
+
+GET {{IT7BDemoWebAPICS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
