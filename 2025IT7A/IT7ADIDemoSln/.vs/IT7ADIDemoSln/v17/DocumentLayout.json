@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025IT7A\\IT7ADIDemoSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_local_/IT72025DB/True/SqlTable/dbo.DataLog.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\models\\sqlserverlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\models\\sqlserverlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\controllers\\ditestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\controllers\\ditestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\models\\it72025dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\models\\it72025dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\views\\ditest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\views\\ditest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|c:\\2025it7a\\it7adidemosln\\it7adidemomvccoreappcs\\models\\idatalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A3E0ABE-B2E0-459F-B65E-81C184041FE0}|IT7ADIDemoMVCCoreAppCS\\IT7ADIDemoMVCCoreAppCS.csproj|solutionrelative:it7adidemomvccoreappcs\\models\\idatalogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.DataLog [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_local_/IT72025DB/True/SqlTable/dbo.DataLog.sql",
+              "ToolTip": "dbo.DataLog [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-18T06:59:01.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\appsettings.json",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\appsettings.json",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\appsettings.json",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T06:58:05.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "It72025dbContext.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Models\\It72025dbContext.cs",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\Models\\It72025dbContext.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Models\\It72025dbContext.cs",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\Models\\It72025dbContext.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAswDIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:42:40.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Views\\DITest\\Index.cshtml",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\Views\\DITest\\Index.cshtml",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Views\\DITest\\Index.cshtml",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\Views\\DITest\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-18T06:39:31.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DITestController.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Controllers\\DITestController.cs",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\Controllers\\DITestController.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Controllers\\DITestController.cs",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\Controllers\\DITestController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:36:51.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Program.cs",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\Program.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Program.cs",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:33:06.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLServerLogger.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Models\\SQLServerLogger.cs",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\Models\\SQLServerLogger.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Models\\SQLServerLogger.cs",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\Models\\SQLServerLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:30:07.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataLogger.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Models\\IDataLogger.cs",
+              "RelativeDocumentMoniker": "IT7ADIDemoMVCCoreAppCS\\Models\\IDataLogger.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7ADIDemoSln\\IT7ADIDemoMVCCoreAppCS\\Models\\IDataLogger.cs",
+              "RelativeToolTip": "IT7ADIDemoMVCCoreAppCS\\Models\\IDataLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T06:29:01.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

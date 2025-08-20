@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\models\\businessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:models\\businessdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|c:\\2025it7a\\it7a-efcore-productwebappcs\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C73122F9-7FBC-4E14-BC9A-BE0BE261FFD7}|IT7A-EFCore-ProductWebAPPCS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:21:36.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwCAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T05:31:00.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA4wEYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:27:22.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:25:28.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:22:45.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T05:21:30.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessDbContext.cs",
+              "DocumentMoniker": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Models\\BusinessDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\BusinessDbContext.cs",
+              "ToolTip": "C:\\2025IT7A\\IT7A-EFCore-ProductWebAPPCS\\Models\\BusinessDbContext.cs",
+              "RelativeToolTip": "Models\\BusinessDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowBgAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T05:20:38.147Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

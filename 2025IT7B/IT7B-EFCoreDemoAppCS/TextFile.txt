@@ -1,0 +1,3 @@
+﻿Data Source=DESKTOP-G78QDQR;Initial Catalog=IT42025DemoDB;Integrated Security=True;Encrypt=False
+
+Scaffold-DbContext 

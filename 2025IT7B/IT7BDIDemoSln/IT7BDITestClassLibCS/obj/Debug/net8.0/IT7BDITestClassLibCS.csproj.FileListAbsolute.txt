@@ -1,0 +1,11 @@
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\bin\Debug\net8.0\IT7BDITestClassLibCS.deps.json
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\bin\Debug\net8.0\IT7BDITestClassLibCS.dll
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\bin\Debug\net8.0\IT7BDITestClassLibCS.pdb
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\IT7BDITestClassLibCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\IT7BDITestClassLibCS.AssemblyInfoInputs.cache
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\IT7BDITestClassLibCS.AssemblyInfo.cs
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\IT7BDITestClassLibCS.csproj.CoreCompileInputs.cache
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\IT7BDITestClassLibCS.dll
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\refint\IT7BDITestClassLibCS.dll
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\IT7BDITestClassLibCS.pdb
+C:\2025IT7B\IT7BDIDemoSln\IT7BDITestClassLibCS\obj\Debug\net8.0\ref\IT7BDITestClassLibCS.dll

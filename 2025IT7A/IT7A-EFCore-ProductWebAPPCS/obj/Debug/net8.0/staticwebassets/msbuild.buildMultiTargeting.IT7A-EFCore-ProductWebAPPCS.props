@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IT7A-EFCore-ProductWebAPPCS.props" />
+</Project>

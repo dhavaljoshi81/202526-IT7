@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IT7B-EFCoreDemoAppCS.props" />
+</Project>

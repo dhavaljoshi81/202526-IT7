@@ -1,0 +1,14 @@
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\bin\Debug\net8.0\IT7BDIDemo.exe
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\bin\Debug\net8.0\IT7BDIDemo.deps.json
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\bin\Debug\net8.0\IT7BDIDemo.runtimeconfig.json
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\bin\Debug\net8.0\IT7BDIDemo.dll
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\bin\Debug\net8.0\IT7BDIDemo.pdb
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.AssemblyInfoInputs.cache
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.AssemblyInfo.cs
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.csproj.CoreCompileInputs.cache
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.dll
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\refint\IT7BDIDemo.dll
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.pdb
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\IT7BDIDemo.genruntimeconfig.cache
+C:\2025IT7A\IT7ADIDemoSln\IT7BDIDemo\obj\Debug\net8.0\ref\IT7BDIDemo.dll

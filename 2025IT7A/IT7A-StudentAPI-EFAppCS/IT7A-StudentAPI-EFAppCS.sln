@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT7A-StudentAPI-EFAppCS", "IT7A-StudentAPI-EFAppCS.csproj", "{0D3D13B4-00AC-424B-8F6D-B4BB42AE3BA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D3D13B4-00AC-424B-8F6D-B4BB42AE3BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D3D13B4-00AC-424B-8F6D-B4BB42AE3BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D3D13B4-00AC-424B-8F6D-B4BB42AE3BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D3D13B4-00AC-424B-8F6D-B4BB42AE3BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {564CB1B8-5C5F-4D36-A983-686D18286918}
+	EndGlobalSection
+EndGlobal

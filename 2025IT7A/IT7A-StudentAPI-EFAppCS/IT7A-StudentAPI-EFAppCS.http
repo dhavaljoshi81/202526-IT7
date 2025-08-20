@@ -1,0 +1,6 @@
+@IT7A_StudentAPI_EFAppCS_HostAddress = http://localhost:5063
+
+GET {{IT7A_StudentAPI_EFAppCS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

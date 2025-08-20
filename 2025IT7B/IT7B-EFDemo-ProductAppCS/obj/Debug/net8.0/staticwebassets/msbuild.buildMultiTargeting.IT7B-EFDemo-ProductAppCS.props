@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IT7B-EFDemo-ProductAppCS.props" />
+</Project>

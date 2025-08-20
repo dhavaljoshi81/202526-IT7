@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IT7BDIDemo/1.0.0": {
+        "runtime": {
+          "IT7BDIDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IT7BDIDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

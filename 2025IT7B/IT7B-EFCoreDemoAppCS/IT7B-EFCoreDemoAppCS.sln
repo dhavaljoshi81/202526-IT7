@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IT7B-EFCoreDemoAppCS", "IT7B-EFCoreDemoAppCS.csproj", "{2F179B00-2CAE-48AC-8B11-3EB6E0C4F8D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IT7BStudentWebAPIDemoCS", "..\IT7BStudentWebAPIDemoCS\IT7BStudentWebAPIDemoCS.csproj", "{C0DF4DD2-3CD1-4DF4-BBC1-BD3CA433AB76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F179B00-2CAE-48AC-8B11-3EB6E0C4F8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F179B00-2CAE-48AC-8B11-3EB6E0C4F8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F179B00-2CAE-48AC-8B11-3EB6E0C4F8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F179B00-2CAE-48AC-8B11-3EB6E0C4F8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DF4DD2-3CD1-4DF4-BBC1-BD3CA433AB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DF4DD2-3CD1-4DF4-BBC1-BD3CA433AB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DF4DD2-3CD1-4DF4-BBC1-BD3CA433AB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DF4DD2-3CD1-4DF4-BBC1-BD3CA433AB76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A8144A6-DB69-4431-B4FD-C0B7B5CE6FF8}
+	EndGlobalSection
+EndGlobal
