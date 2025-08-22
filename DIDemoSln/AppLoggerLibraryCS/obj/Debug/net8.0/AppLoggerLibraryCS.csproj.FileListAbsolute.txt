@@ -1,0 +1,11 @@
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\bin\Debug\net8.0\AppLoggerLibraryCS.deps.json
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\bin\Debug\net8.0\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\bin\Debug\net8.0\AppLoggerLibraryCS.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\AppLoggerLibraryCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\AppLoggerLibraryCS.AssemblyInfoInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\AppLoggerLibraryCS.AssemblyInfo.cs
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\AppLoggerLibraryCS.csproj.CoreCompileInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\refint\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\AppLoggerLibraryCS.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerLibraryCS\obj\Debug\net8.0\ref\AppLoggerLibraryCS.dll

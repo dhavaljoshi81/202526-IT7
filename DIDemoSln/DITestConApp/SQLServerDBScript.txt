@@ -1,0 +1,22 @@
+﻿
+
+CREATE TABLE [dbo].[AppDataLog] (
+    [ID]         INT            IDENTITY (1, 1) NOT NULL,
+    [AppName]    NVARCHAR (50)  NOT NULL,
+    [ClassName]  NVARCHAR (50)  NOT NULL,
+    [MethodName] NVARCHAR (50)  NULL,
+    [Message]    NVARCHAR (200) NOT NULL,
+    [UserName]   NVARCHAR (50)  NULL,
+    [Timestamp]  DATETIME       NOT NULL,
+    CONSTRAINT [PK_AppDataLog] PRIMARY KEY CLUSTERED ([ID] ASC)
+);
+
+
+CREATE TABLE [dbo].[ErrorLog] (
+    [ErrorID]       INT            IDENTITY (1, 1) NOT NULL,
+    [ErrorMessage]  NVARCHAR (100) NOT NULL,
+    [ExceptionType] NVARCHAR (200) NULL,
+    [StackTrace]    NVARCHAR (100) NULL,
+    [ErrorTime]     DATETIME       NOT NULL,
+    CONSTRAINT [PK_ErrorLog] PRIMARY KEY CLUSTERED ([ErrorID] ASC)
+);

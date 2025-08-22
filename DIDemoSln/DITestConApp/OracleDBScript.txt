@@ -1,0 +1,47 @@
+﻿Scaffold-DBContext "User Id=dhaval;Password=abc123;Data Source=localhost:1521/XE;" Oracle.EntityFrameworkCore
+
+-- Tables
+CREATE TABLE AppDataLog (
+    ID          NUMBER        NOT NULL,
+    AppName     NVARCHAR2(50) NOT NULL,
+    ClassName   NVARCHAR2(50) NOT NULL,
+    MethodName  NVARCHAR2(50),
+    Message     NVARCHAR2(200) NOT NULL,
+    UserName    NVARCHAR2(50),
+    "Timestamp" DATE          NOT NULL,
+    CONSTRAINT PK_AppDataLog PRIMARY KEY (ID)
+);
+
+CREATE TABLE ErrorLog (
+    ErrorID        NUMBER         NOT NULL,
+    ErrorMessage   NVARCHAR2(100) NOT NULL,
+    ExceptionType  NVARCHAR2(200),
+    StackTrace     NVARCHAR2(100),
+    ErrorTime      DATE           NOT NULL,
+    CONSTRAINT PK_ErrorLog PRIMARY KEY (ErrorID)
+);
+
+-- Sequences
+CREATE SEQUENCE SEQ_AppDataLog START WITH 1 INCREMENT BY 1 NOCACHE NOCYCLE;
+CREATE SEQUENCE SEQ_ErrorLog   START WITH 1 INCREMENT BY 1 NOCACHE NOCYCLE;
+
+-- Triggers to auto-populate IDs
+CREATE OR REPLACE TRIGGER TRG_AppDataLog_BI
+BEFORE INSERT ON AppDataLog
+FOR EACH ROW
+BEGIN
+  IF :NEW.ID IS NULL THEN
+    SELECT SEQ_AppDataLog.NEXTVAL INTO :NEW.ID FROM dual;
+  END IF;
+END;
+/
+
+CREATE OR REPLACE TRIGGER TRG_ErrorLog_BI
+BEFORE INSERT ON ErrorLog
+FOR EACH ROW
+BEGIN
+  IF :NEW.ErrorID IS NULL THEN
+    SELECT SEQ_ErrorLog.NEXTVAL INTO :NEW.ErrorID FROM dual;
+  END IF;
+END;
+/

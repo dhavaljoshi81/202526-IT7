@@ -1,0 +1,15 @@
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\bin\Debug\net8.0\AppLoggerTextFile.deps.json
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\bin\Debug\net8.0\AppLoggerTextFile.dll
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\bin\Debug\net8.0\AppLoggerTextFile.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\bin\Debug\net8.0\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\bin\Debug\net8.0\AppLoggerLibraryCS.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.csproj.AssemblyReference.cache
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.AssemblyInfoInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.AssemblyInfo.cs
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.csproj.CoreCompileInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLogge.BB30A226.Up2Date
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.dll
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\refint\AppLoggerTextFile.dll
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\AppLoggerTextFile.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerTextFile\obj\Debug\net8.0\ref\AppLoggerTextFile.dll

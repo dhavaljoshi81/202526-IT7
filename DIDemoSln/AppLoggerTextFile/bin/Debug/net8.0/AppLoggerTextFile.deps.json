@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppLoggerTextFile/1.0.0": {
+        "dependencies": {
+          "AppLoggerLibraryCS": "1.0.0"
+        },
+        "runtime": {
+          "AppLoggerTextFile.dll": {}
+        }
+      },
+      "AppLoggerLibraryCS/1.0.0": {
+        "runtime": {
+          "AppLoggerLibraryCS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppLoggerTextFile/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AppLoggerLibraryCS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

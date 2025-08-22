@@ -1,0 +1,14 @@
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\bin\Debug\net8.0\AppLoggerOracle.deps.json
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\bin\Debug\net8.0\AppLoggerOracle.runtimeconfig.json
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\bin\Debug\net8.0\AppLoggerOracle.dll
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\bin\Debug\net8.0\AppLoggerOracle.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.csproj.AssemblyReference.cache
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.AssemblyInfoInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.AssemblyInfo.cs
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.csproj.CoreCompileInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.dll
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\refint\AppLoggerOracle.dll
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\AppLoggerOracle.genruntimeconfig.cache
+C:\Demo Projects\DIDemoSln\AppLoggerOracle\obj\Debug\net8.0\ref\AppLoggerOracle.dll

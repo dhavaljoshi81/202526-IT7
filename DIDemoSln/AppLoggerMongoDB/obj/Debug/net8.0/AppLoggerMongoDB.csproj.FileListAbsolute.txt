@@ -1,0 +1,15 @@
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\bin\Debug\net8.0\AppLoggerMongoDB.deps.json
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\bin\Debug\net8.0\AppLoggerMongoDB.dll
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\bin\Debug\net8.0\AppLoggerMongoDB.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\bin\Debug\net8.0\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\bin\Debug\net8.0\AppLoggerLibraryCS.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.csproj.AssemblyReference.cache
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.AssemblyInfoInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.AssemblyInfo.cs
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.csproj.CoreCompileInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLogge.8CB93F72.Up2Date
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.dll
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\refint\AppLoggerMongoDB.dll
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\AppLoggerMongoDB.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerMongoDB\obj\Debug\net8.0\ref\AppLoggerMongoDB.dll

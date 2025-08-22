@@ -1,0 +1,17 @@
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\bin\Debug\net8.0\AppLoggerSQLServer.deps.json
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\bin\Debug\net8.0\AppLoggerSQLServer.runtimeconfig.json
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\bin\Debug\net8.0\AppLoggerSQLServer.dll
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\bin\Debug\net8.0\AppLoggerSQLServer.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\bin\Debug\net8.0\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\bin\Debug\net8.0\AppLoggerLibraryCS.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.csproj.AssemblyReference.cache
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.AssemblyInfoInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.AssemblyInfo.cs
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.csproj.CoreCompileInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLogge.DC8C3685.Up2Date
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.dll
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\refint\AppLoggerSQLServer.dll
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\AppLoggerSQLServer.genruntimeconfig.cache
+C:\Demo Projects\DIDemoSln\AppLoggerSQLServer\obj\Debug\net8.0\ref\AppLoggerSQLServer.dll

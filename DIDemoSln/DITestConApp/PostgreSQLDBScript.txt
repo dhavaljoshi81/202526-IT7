@@ -1,0 +1,19 @@
+﻿Scaffold-DbContext "Host=localhost;Port=5432;Database=AppLoggerDB;Username=postgres;Password=post@123;Integrated Security=true;" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Models -Context MyDbContext -DataAnnotations -Force
+
+CREATE TABLE AppDataLog (
+    ID SERIAL PRIMARY KEY,
+    AppName VARCHAR(50) NOT NULL,
+    ClassName VARCHAR(50) NOT NULL,
+    MethodName VARCHAR(50),
+    Message VARCHAR(200) NOT NULL,
+    UserName VARCHAR(50),
+    "Timestamp" TIMESTAMP NOT NULL
+);
+
+CREATE TABLE ErrorLog (
+    ErrorID SERIAL PRIMARY KEY,
+    ErrorMessage VARCHAR(100) NOT NULL,
+    ExceptionType VARCHAR(200),
+    StackTrace VARCHAR(100),
+    ErrorTime TIMESTAMP NOT NULL
+);

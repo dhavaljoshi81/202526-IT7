@@ -1,0 +1,17 @@
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\bin\Debug\net8.0\AppLoggerPostgres.deps.json
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\bin\Debug\net8.0\AppLoggerPostgres.runtimeconfig.json
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\bin\Debug\net8.0\AppLoggerPostgres.dll
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\bin\Debug\net8.0\AppLoggerPostgres.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.csproj.AssemblyReference.cache
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.AssemblyInfoInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.AssemblyInfo.cs
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.csproj.CoreCompileInputs.cache
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.dll
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\refint\AppLoggerPostgres.dll
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLoggerPostgres.genruntimeconfig.cache
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\ref\AppLoggerPostgres.dll
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\bin\Debug\net8.0\AppLoggerLibraryCS.dll
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\bin\Debug\net8.0\AppLoggerLibraryCS.pdb
+C:\Demo Projects\DIDemoSln\AppLoggerPostgres\obj\Debug\net8.0\AppLogge.428CBB26.Up2Date
